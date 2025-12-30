@@ -2,7 +2,7 @@
 
 A curated list of projects I want to highlight on my profile.
 
-- [Zarestia-Dev/rclone-manager](https://github.com/Zarestia-Dev/rclone-manager) — A useful rclone manager by @Zarestia-Dev. (Original repository — I recommend checking the upstream project for the latest updates.)
+- [rclone-manager](https://github.com/Zarestia-Dev/rclone-manager) — A useful rclone manager by @Zarestia-Dev. (Original repository — I recommend checking the upstream project for the latest updates.)
 - [Round Sync](https://github.com/newhinton/Round-Sync) - Round Sync - Rclone for Android
 - [AzuraCast](https://github.com/AzuraCast/AzuraCast) - AzuraCast: A Simple, Self-Hosted Web Radio Management Suite
 Why this repo exists
