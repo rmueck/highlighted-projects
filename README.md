@@ -6,6 +6,7 @@ A curated list of projects I want to highlight on my profile.
 - [Round Sync](https://github.com/newhinton/Round-Sync) - Round Sync - Rclone for Android
 - [AzuraCast](https://github.com/AzuraCast/AzuraCast) - AzuraCast: A Simple, Self-Hosted Web Radio Management Suite
 - [DockerBackup](https://github.com/rmueck/DockerBackup) - Docker Backup/Restore
+- [nft Netfilter](https://github.com/trick77/nftables-blacklist) - NFT Blacklist
 
 Why this repo exists
 - GitHub shows the README of this repository prominently when pinned to my profile.
